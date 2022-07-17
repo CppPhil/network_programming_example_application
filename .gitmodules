@@ -1,0 +1,9 @@
+[submodule "external/poco"]
+	path = external/poco
+	url = https://github.com/pocoproject/poco.git
+[submodule "external/philslib"]
+	path = external/philslib
+	url = https://github.com/CppPhil/philslib.git
+[submodule "external/fmtlib"]
+	path = external/fmtlib
+	url = https://github.com/fmtlib/fmt.git
