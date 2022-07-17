@@ -23,4 +23,6 @@ add_subdirectory(external/poco)
 add_subdirectory(external/philslib)
 add_subdirectory(external/fmtlib)
 
-add_executable (network_programming "network_programming.cpp" "network_programming.h")
+add_subdirectory(library)
+add_subdirectory(client)
+add_subdirectory(server)
